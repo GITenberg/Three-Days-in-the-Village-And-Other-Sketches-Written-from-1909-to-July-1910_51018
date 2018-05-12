@@ -1,4 +1,5 @@
 _repo: Three-Days-in-the-Village-And-Other-Sketches-Written-from-1909-to-July-1910_51018
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Maude, Aylmer
@@ -16,6 +17,9 @@ contributor:
     gutenberg_agent_id: '500'
     url: http://www.gutenberg.org/2009/agents/500
     wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+covers:
+- cover_type: archival
+  image_path: 51018-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -30,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51018#Three-Days-in-the-Village-And-Other-Sketches-Written-from-1909-to-July-1910
 gutenberg_issued: '2016-01-23'
 gutenberg_type: Text
 identifiers:
